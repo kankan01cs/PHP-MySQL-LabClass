@@ -1,5 +1,5 @@
 <?php
-$name = "Kankan";
+$name = "KANKAN JAN";
 ?>
 
 <!DOCTYPE html>
